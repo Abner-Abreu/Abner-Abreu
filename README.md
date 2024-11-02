@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi my name's Abner<br>❤️ I love programming in C/C#<br>💼 Studying Computer Science <br>🔍 Learning C#
+👋 Hi my name's Abner<br>❤️ I love programming in C/C++<br>💼 Studying Computer Science <br>🔍 Learning C#
 
 
 ## 🌐 Socials:
