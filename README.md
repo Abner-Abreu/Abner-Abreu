@@ -1,30 +1,30 @@
 # Abner Alexandro Abreu Tamayo
 
-Desarrollador **Full‑Stack C#/.NET** enfocado en construir aplicaciones robustas y funcionales, con interés en **fintech** y software técnico.
+**C#/.NET Software Developer** focused on building robust, reliable applications. Interested in **fintech** and technical software.
 
 ## Skills
-- **Lenguajes:** C# (.NET), Python, C, C++, TypeScript (básico)
-- **.NET:** EF Core, LINQ, async/await, testing (bases)
-- **Frontend:** React, Next.js (en aprendizaje), TailwindCSS (en aprendizaje)
-- **Backend (Node.js):** NestJS (en aprendizaje)
-- **Bases de datos:** SQLite (principal), MySQL
-- **DevOps / Flujo:** GitHub Actions, GitFlow
-- **Herramientas:** Git, Linux
+- **Languages:** C# (.NET), Python, C, C++, TypeScript (basic)
+- **.NET:** EF Core, LINQ, async/await, unit testing (foundations)
+- **Desktop UI (Frontend):** Avalonia UI
+- **Web Frontend:** React, Next.js (learning), Tailwind CSS (learning)
+- **Backend (Node.js):** NestJS (learning)
+- **Databases:** SQLite (primary), MySQL
+- **DevOps / Workflow:** GitHub Actions, GitFlow workflow
+- **Tools:** Git, Linux
 
+## Projects
+- [TradeLog](https://github.com/Abner-Abreu/TradeLog) — Cross-platform desktop trading journal.  
+  **Stack:** .NET, C#, Avalonia UI, SQLite (EF Core)
 
-## Proyectos
-- [TradeLog](https://github.com/Abner-Abreu/TradeLog) — Trading journal de escritorio multiplataforma.  
-  **Stack:** .NET, C#, Avalonia, SQLite (EF Core)
-
-- [ResxDesigner](https://github.com/Abner-Abreu/ResxDesigner) — Herramienta CLI multiplataforma que genera `.Designer.cs` a partir de `.resx`.  
+- [ResxDesigner](https://github.com/Abner-Abreu/ResxDesigner) — Cross-platform CLI tool that generates `.Designer.cs` files from `.resx` resources.  
   **Stack:** .NET, C#, CLI tooling
 
-- [Pixel‑Wall‑E](https://github.com/Abner-Abreu/Pixel-Wall-E) — Herramienta de pixel art con canvas interactivo y enfoque “code‑driven”.  
+- [Pixel‑Wall‑E](https://github.com/Abner-Abreu/Pixel-Wall-E) — Pixel art tool with an interactive canvas and a code-driven approach.  
   **Stack:** Godot 4.4 Mono, C#
 
-- [Population Dynamics Simulator](https://github.com/Abner-Abreu/Population-Dynamics-Simulator) — GUI para simular y visualizar modelos matemáticos de dinámica poblacional.  
+- [Population Dynamics Simulator](https://github.com/Abner-Abreu/Population-Dynamics-Simulator) — GUI application to simulate and visualize mathematical population dynamics models.  
   **Stack:** Python (Tkinter)
 
-## Contacto
+## Contact
 - GitHub: https://github.com/Abner-Abreu
 - Telegram: @Abner_49
