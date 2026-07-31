@@ -1,6 +1,6 @@
 # Abner Alexandro Abreu Tamayo
 
-**C#/.NET Software Developer** focused on building robust, reliable applications. Interested in **fintech** and technical software.
+**Software Developer** focused on building robust, reliable applications. Interested in **fintech** and technical software.
 
 ## Skills
 - **Languages:** C# (.NET), Python, C, C++, TypeScript (basic)
